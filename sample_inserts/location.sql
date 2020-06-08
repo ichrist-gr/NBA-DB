@@ -1,0 +1,4 @@
+--locations.csv
+
+INSERT INTO LOCATIONS (LOCATION_CITY,LOCATION_STATE)
+VALUES ('Atalanta','Georgia');
